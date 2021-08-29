@@ -1,0 +1,12 @@
+lab50:
+  files:
+    - !exclude "*"
+    - !include pozdrav.c
+
+submit50:
+  files: &files
+    - !exclude "*"
+    - !require pozdrav.c
+
+check50:
+  files: *files
