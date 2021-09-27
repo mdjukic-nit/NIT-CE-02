@@ -1,5 +1,5 @@
 # NIT-CE-02
-## Advanced C 2021.2
+## Advanced C
 
 The course gives in-depth understanding of logic behind C language. Participants would understand how commands written in C are mapped to processor instructions, memory handling, pointers and function callbacks and more advanced C constructs. Finally, the course gives practical pointers on how C programs are optimized and applied in a specific embedded environments.
 
